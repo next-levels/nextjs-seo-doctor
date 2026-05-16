@@ -16,14 +16,20 @@ Designed to run in `npx`, in CI, or as a pre-commit gate.
 ## Use
 
 ```bash
-# Audit current directory
-npx -y nextjs-seo-doctor@latest .
+# Audit current directory (from GitHub — works today)
+npx -y github:next-levels/nextjs-seo-doctor .
 
 # Audit another project
-npx -y nextjs-seo-doctor@latest /path/to/your/next-app
+npx -y github:next-levels/nextjs-seo-doctor /path/to/your/next-app
 
 # CI gate
-npx -y nextjs-seo-doctor@latest . --threshold 80
+npx -y github:next-levels/nextjs-seo-doctor . --threshold 80
+```
+
+Once published to npm:
+
+```bash
+npx -y nextjs-seo-doctor@latest .
 ```
 
 ### Example output
