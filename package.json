@@ -1,0 +1,32 @@
+{
+  "name": "nextjs-seo-doctor",
+  "version": "0.1.0",
+  "description": "Static SEO analyzer for Next.js codebases. Outputs a 0-100 health score with actionable diagnostics.",
+  "bin": {
+    "nextjs-seo-doctor": "./bin/cli.js"
+  },
+  "main": "./src/index.js",
+  "type": "module",
+  "files": [
+    "bin",
+    "src",
+    "rules.txt",
+    "README.md"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "start": "node bin/cli.js",
+    "test": "node bin/cli.js ../next-levels-website-react"
+  },
+  "keywords": [
+    "nextjs",
+    "seo",
+    "audit",
+    "doctor",
+    "lint",
+    "static-analysis"
+  ],
+  "license": "MIT"
+}

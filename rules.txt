@@ -1,0 +1,839 @@
+logo
+favicon
+next-levels.de
+Site Audit
+*.next-levels.de/*
+Current crawling:
+1 day ago
+Next autocrawling:
+in 1 day
+All pages
+Indexable pages
+Pages blocked for index
+Criticals
+9
++4
+Warnings
+55
+Opportunities
+908
++4
+Notices
+1.1k
++15
+Website Score
+92
+Crawled pages
+289
++2
+Indexable pages
+175
++9
+Catch critical SEO issues before they cost you
+Select which notifications related to changes in robots.txt, page indexing, and text content you would like to receive by email or in Slack.
+Issues list
+All issues
+Criticals
+Warnings
+Opportunities
+Notices
+Zero issues
+Sort by:
+default
+links
+(3 issues)
+Issues with internal backlinks, internal links and external links, their anchors, HTTP status codes and rel attributes.
+Page has outbound internal links with one word anchor
+:
+194 pages
++2
+Page has less than 10 internal backlinks
+:
+102 pages
+Page has incoming followed links that do not use descriptive anchor text
+:
+8 pages
+Checks passed: 27
+Orphan URLs - only found via sitemap
+:
+0 pages
+ignored issue
+Page has link to a non-HTTP protocol
+:
+0 pages
+Page has outgoing links with malformed href data
+:
+0 pages
+Page has more than 100 external links
+:
+0 pages
+Page has no outgoing links
+:
+0 pages
+URL receives both follow and nofollow internal links
+:
+0 pages
+Page has an anchored image with no alt text
+:
+0 pages
+Page has more than 100 identical internal links
+:
+0 pages
+Has a link with an empty href attribute
+:
+0 pages
+Has only one followed internal linking URL
+:
+0 pages
+Page has internal links to 3xx pages
+:
+0 pages
+Page has internal links to 4xx pages
+:
+0 pages
+Page has broken links to external websites
+:
+0 pages
+Broken jump link
+:
+0 pages
+Page has more than 100 links before H1 tag
+:
+0 pages
+Page has internal backlinks with the same anchor
+:
+0 pages
+Page has one or more outgoing followed links with non descriptive anchor text
+:
+0 pages
+Has an internal link with no anchor text
+:
+0 pages
+Links in the footer with a no-follow attribute
+:
+0 pages
+Page has nofollow outgoing internal links
+:
+0 pages
+HTTP page has internal links to HTTPS
+:
+0 pages
+Page has more than 10 external links
+:
+0 pages
+Page has more than 100 internal links
+:
+0 pages
+Page has more than 2 links to internal page with the same anchor
+:
+0 pages
+Page only has nofollow incoming internal links
+:
+0 pages
+Page has link with a URL in onclick attribute
+:
+0 pages
+Empty links "#"
+:
+0 pages
+indexability
+(3 issues)
+Issues that can block or complicate crawling and indexing of website pages by Googlebot.
+H2 has other tags inside
+:
+194 pages
++2
+H1 has other tags inside
+:
+84 pages
+Canonical ≠ URL
+:
+1 page
++1
+Checks passed: 54
+Canonical to non-200
+:
+0 pages
+Canonical is empty
+:
+0 pages
+Canonical from HTTP to HTTPS
+:
+0 pages
+Canonical from HTTPS to HTTP
+:
+0 pages
+Double slash in URL
+:
+0 pages
+Mismatched canonical tag in HTML and HTTP header
+:
+0 pages
+Noscript in head contains invalid HTML elements
+:
+0 pages
+Canonical outside of head
+:
+0 pages
+Canonical points to a disallowed URL
+:
+0 pages
+Canonical points to a noindex URL
+:
+0 pages
+Canonical points to another canonicalized URL
+:
+0 pages
+Canonicalized URL is noindex, nofollow
+:
+0 pages
+More than one <body> tag on page
+:
+0 pages
+More than one </body> tag on page
+:
+0 pages
+More than one </head> tag on page
+:
+0 pages
+More than one </html> tag on page
+:
+0 pages
+More than one <head> tag on page
+:
+0 pages
+More than one <html> tag on page
+:
+0 pages
+Page has content after </html>
+:
+0 pages
+</body> tag is missing
+:
+0 pages
+</head> tag is missing
+:
+0 pages
+</html> tag is missing
+:
+0 pages
+<head> tag is missing
+:
+0 pages
+<body> tag is missing
+:
+0 pages
+<html> tag is missing
+:
+0 pages
+Page has disallowed CSS files
+:
+0 pages
+Page has disallowed images
+:
+0 pages
+Page has disallowed JavaScript files
+:
+0 pages
+Page has no declared character encoding
+:
+0 pages
+Mismatched nofollow directives in HTML and header
+:
+0 pages
+Mismatched noindex directives in HTML and header
+:
+0 pages
+Page has content before <!doctype html>
+:
+0 pages
+Canonical is missing
+:
+0 pages
+Noindex in HTML and HTTP header
+:
+0 pages
+Nofollow in HTML and HTTP header
+:
+0 pages
+Canonical is a relative URL
+:
+0 pages
+Meta robots found outside of <head>
+:
+0 pages
+Multiple base URLs
+:
+0 pages
+Multiple canonical tags
+:
+0 pages
+Multiple noindex directives
+:
+0 pages
+Multiple, mismatched base URLs
+:
+0 pages
+Base URL malformed or empty
+:
+0 pages
+Meta nofollow pages
+:
+0 pages
+Non-indexable pages
+:
+0 pages
+Disallowed by robots.txt
+:
+0 pages
+Meta noindex pages
+:
+0 pages
+Noindex follow page
+:
+0 pages
+More than three parameters in URL
+:
+0 pages
+Page contains rel=sponsored attributes
+:
+0 pages
+Page contains a form with a GET method
+:
+0 pages
+Page has content-type other than text/html
+:
+0 pages
+Error page responds 404 status code
+
+site-level
+Home page is open for scanning by search engine robots in robots.txt
+
+site-level
+Home page is open for indexing in search engines
+
+site-level
+content relevance
+(12 issues)
+Issues that can reduce the relevance of content to search intent: missing, empty or repeatable content tags, outdated content etc.
+H1 duplicates
+:
+4 pages
+Description duplicates
+:
+4 pages
+Page has alt tags with one word
+:
+106 pages
+Text to code ratio < 10%
+:
+194 pages
++2
+Title starts with a lowercase letter
+:
+52 pages
+Description too long
+:
+15 pages
++2
+Title too short
+:
+12 pages
+Title too long
+:
+8 pages
+H1 too long
+:
+6 pages
+H1 too short
+:
+2 pages
+Description too short
+:
+2 pages
+H1 starts with a lowercase letter
+:
+2 pages
+Checks passed: 30
+Duplicate pages without canonical
+:
+0 pages
+More than one body tag on page
+:
+0 pages
+Title is empty
+:
+0 pages
+Title is missing
+:
+0 pages
+More than one title tag on page
+:
+0 pages
+Lorem Ipsum content on the live site
+:
+0 pages
+H1 is empty
+:
+0 pages
+Description is empty
+:
+0 pages
+H1 is missing
+:
+0 pages
+Description is missing
+:
+0 pages
+More than one description tag on page
+:
+0 pages
+HTML lang attribute missing
+:
+0 pages
+Low word count
+:
+0 pages
+HTTPS page links to HTTP image
+:
+0 pages
+Missing alt text
+:
+0 pages
+Page has not been updated more than 1 year
+:
+0 pages
+H2 is missing
+:
+0 pages
+Author box with "Admin"
+:
+0 pages
+Page has no list markdown
+:
+0 pages
+Page has no strong importance elements
+:
+0 pages
+Page might have an outdated title
+:
+0 pages
+Paragraphs are missing
+:
+0 pages
+Images
+:
+0 pages
+Page code has less than 500 symbols
+:
+0 pages
+Non-HTML URLs
+:
+0 pages
+PDF files
+:
+0 pages
+Description = Title
+:
+0 pages
+H2 starts with a lowercase letter
+:
+0 pages
+Homepage with the title tag of “Home”
+
+site-level
+Site has a favicon
+
+site-level
+duplicate content
+(3 issues)
+Issues that can lead to appearing duplicate pages in Google index and drop in positions of popular pages.
+Title duplicates
+:
+4 pages
+Page has identical alt tags
+:
+194 pages
++2
+H1 = Title
+:
+4 pages
++2
+Checks passed: 12
+security
+(2 issues)
+Issue that can lead to hacking the site by scammers and using it for their own purposes or stealing the data of visitors to your site.
+Defence against gaining access to the cookies via JavaScript is not implemented
+
+site-level
+Page has HTTP link to www.w3.org
+:
+194 pages
++2
+Checks passed: 15
+HTTPS page has internal links to HTTP
+:
+0 pages
+HTTP URLs
+:
+0 pages
+HTTPS URL contains a form posting to HTTP
+:
+0 pages
+HTTPS page links to HTTP CSS
+:
+0 pages
+HTTPS page links to HTTP JavaScript
+:
+0 pages
+Page has HTTP link to ogp.me
+:
+0 pages
+Page has HTTP link to schema.org
+:
+0 pages
+Page requires CAPTCHA authentication method
+:
+0 pages
+Site is safe
+
+site-level
+SSL certificate is valid
+
+site-level
+Redirect to HTTPS is implemented in response header
+
+site-level
+Defence against cross-site scripting attacks is implemented
+
+site-level
+Defence against click-jacking attacks is implemented
+
+site-level
+Defence against MIME type sniffing is implemented
+
+site-level
+Web server hides its version
+
+site-level
+internal
+(2 issues)
+Issues related to the correct spelling of URL addresses.
+URL contains no Google Tag Manager code
+:
+194 pages
++2
+Long URLs
+:
+2 pages
+Checks passed: 22
+4xx client errors
+:
+0 pages
+5xx server errors
+:
+0 pages
+Timed out
+:
+0 pages
+HTTP URL contains a password input field
+:
+0 pages
+Has link with a URL referencing LocalHost or 127.0.0.1
+:
+0 pages
+Has link with a URL referencing a local or UNC file path
+:
+0 pages
+URL resolves under both HTTP and HTTPS
+:
+0 pages
+Page has broken CSS files
+:
+0 pages
+Page has broken images
+:
+0 pages
+Page has broken JavaScript files
+:
+0 pages
+Has a link with whitespace in href attribute
+:
+0 pages
+Page has empty src attributes
+:
+0 pages
+URL contains upper case characters
+:
+0 pages
+URL contains repetitive elements
+:
+0 pages
+URL contains non-ASCII characters
+:
+0 pages
+Query string contains a question mark
+:
+0 pages
+URL contains more than one Google Tag Manager code
+:
+0 pages
+Query string contains sort parameters
+:
+0 pages
+Query string contains search or filter parameters
+:
+0 pages
+Query string contains repetitive parameters
+:
+0 pages
+Query string contains paginated parameters
+:
+0 pages
+Whitespace in URL
+:
+0 pages
+page speed
+(5 issues)
+Issues that can lead to slow page loading speed and a decrease in the percentage of conversions as a result.
+Home page is rated 45 of 100 in Mobile PageSpeed Insights
+
+site-level
+Add dimensions to images
+:
+42 pages
+Defer offscreen images
+:
+4 pages
+Serve images in next gen formats
+:
+12 pages
+Use video formats for animated content
+:
+2 pages
+Checks passed: 11
+redirects
+(1 issue)
+Issues related to redirects and redirect chains which can degrade the user experience and make it difficult to crawl pages for Googlebot.
+3xx other redirects
+:
+48 pages
+Checks passed: 10
+Redirect chains
+:
+0 pages
+Meta refresh redirect
+:
+0 pages
+Internal redirects from case normalization
+:
+0 pages
+Internal redirects from trailing slash mismatch
+:
+0 pages
+Internal URL redirect broken
+:
+0 pages
+Internal URL redirects back to itself
+:
+0 pages
+301 redirects
+:
+0 pages
+ignored issue
+HTTPS to HTTP redirect
+:
+0 pages
+HTTP to HTTPS redirect
+:
+0 pages
+302 redirects
+:
+0 pages
+social media
+(0 issues)
+code validation
+(1 issue)
+Issues that indicates that page code is not implemented in compliance with the standards and recommendations set by the World Wide Web Consortium (W3C) for the web.
+Page has tags with style attributes
+:
+194 pages
++2
+Checks passed: 9
+<html> tag is empty
+:
+0 pages
+Page has no declared <!doctype html>
+:
+0 pages
+Google Tag Manager code in <body>
+:
+0 pages
+PHP fatal error
+:
+0 pages
+Headings hierarchy is broken
+:
+0 pages
+Page contains different structured data formats
+:
+0 pages
+Page has <table> but has no <caption> attribute
+:
+0 pages
+Page has <table> but has no <th> attribute
+:
+0 pages
+Page has identical HTML id attributes
+:
+0 pages
+search traffic
+(1 issue)
+Potential issues that exist within the search traffic data and status of pages' crawlability and indexability.
+Page has at least 1 click
+:
+12 pages
+-2
+Checks passed: 10
+Page has 0 impressions
+:
+0 pages
+ignored issue
+Non-indexable page that has at least 1 impression
+:
+0 pages
+Page is blocked by robots.txt and has at least 1 impression
+:
+0 pages
+4xx pages that have at least 1 click
+:
+0 pages
+Canonicalized pages that have at least 1 click
+:
+0 pages
+ignored issue
+3xx pages that have at least 1 click
+:
+0 pages
+Page is not submitted to sitemap and has at least 1 impression
+:
+0 pages
+Orphan pages with impressions
+:
+0 pages
+Connect Google Analytics and Search Console properties to Sitechecker
+site-level
+Track keywords on Sitechecker
+
+site-level
+mobile friendly
+(0 issues)
+xml sitemaps
+(0 issues)
+localization
+(5 issues)
+Issues related to implementation of outgoing and incoming hreflang tags that help Googlebot understand language and regional targeting.
+Missing reciprocal hreflang (no return-tag)
+:
+2 pages
++2
+Self-reference hreflang annotation missing
+:
+1 page
++1
+Canonicalized URL has incoming hreflang
+:
+1 page
++1
+Hreflang annotation also x-default
+:
+194 pages
++2
+Not all pages from hreflang group were crawled
+:
+1 page
+Checks passed: 18
+HTML lang attribute invalid
+:
+0 pages
+Hreflang annotation invalid
+:
+0 pages
+More than one page for same language in hreflang
+:
+0 pages
+Page referenced for more than one language in hreflang
+:
+0 pages
+Hreflang to non-canonical
+:
+0 pages
+Has outgoing hreflang annotations using relative URLs
+:
+0 pages
+Mismatched hreflang and HTML lang declarations
+:
+0 pages
+Has outgoing hreflang annotations to redirecting URLs
+:
+0 pages
+Invalid incoming hreflang annotations
+:
+0 pages
+Noindex URL has incoming hreflang
+:
+0 pages
+Has outgoing hreflang annotations to broken URLs
+:
+0 pages
+Has outgoing hreflang annotations to disallowed URLs
+:
+0 pages
+Has outgoing hreflang annotations to noindex URLs
+:
+0 pages
+Disallowed URL has incoming hreflang
+:
+0 pages
+Has conflicting incoming hreflang annotations
+:
+0 pages
+Hreflang defined but HTML lang missing
+:
+0 pages
+X-default hreflang annotation missing
+:
+0 pages
+Missing hreflang annotations
+:
+0 pages
+Affected pages by category
+info
+links
+0 %
+indexability
+0 %
+content relevance
+2 %
+duplicate content
+2 %
+security
+1 %
+internal
+0 %
+page speed
+15 %
+redirects
+0 %
+social media
+0 %
+code validation
+0 %
+search traffic
+0 %
+mobile friendly
+0 %
+xml sitemaps
+0 %
+localization
+1 %
